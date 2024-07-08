@@ -1,9 +1,6 @@
 # Fitness-Tracker1
 
 
-## Overview
-Brief description of your fitness tracking application.
-
 ## Features
 - **Activity Tracking:** Log and view activities.
 - **Diet Tracking:** Track meals and nutritional intake.
